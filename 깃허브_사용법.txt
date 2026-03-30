@@ -1,0 +1,5 @@
+Github에서 Repositories를 클릭한 후에 주소를 복사한다.
+터미널 창에서 업로드하려는 프로젝트 폴더로 접속을 한 후에
+1. git init을 실행
+2. git remote add origin [주소] 를 실행
+3. 
